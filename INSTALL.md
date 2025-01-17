@@ -1,4 +1,4 @@
-### [Foobar](https://foobar.com)
+### [Ghostty](https://ghostty.org)
 
 #### Install using Git
 
