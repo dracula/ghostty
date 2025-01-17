@@ -14,6 +14,12 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/ar
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Copy `dracula` into the directory `~/.config/ghostty/themes/`
+
+2. Add the following line to your `config` file:
+```
+theme = dracula
+```
+3. Reload Ghostty to apply the changes.
+
+4. Alternatively, copy the contents of `dracula` directly into `config`.
